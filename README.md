@@ -1,6 +1,8 @@
 Hello and welcome.
 This is Madison's personal website!
 
+The site can be accessed via this [link](https://madison13g.github.io/).
+
 
 Credits:
 
